@@ -6,7 +6,7 @@
 #include "%UNPREFIXED_CLASS_NAME%.generated.h"
 
 /**
- * %UNPREFIXED_CLASS_NAME%
+ * %PREFIXED_CLASS_NAME%
  */
 UCLASS(meta=(BlueprintSpawnableComponent))
 class %CLASS_MODULE_API_MACRO%%PREFIXED_CLASS_NAME% : public %PREFIXED_BASE_CLASS_NAME%
